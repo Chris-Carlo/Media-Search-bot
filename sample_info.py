@@ -22,7 +22,8 @@ COLLECTION_NAME ='channel_files' # If you going to use same database, then use d
 START_MSG = """
 **Hi, I am Game Searcher bot**
 
-@BLACKPSYCHOBOT 
+🎮 Click on 'Search Here' button to get games here.\n🎮 Click 'Go Inline' button to send games to Chats.\n
+
 I will send apk to you. Install it. 
 Here you can search Games in inline mode. Just press follwing buttons and start searching. Can't find desired game? Then contact @Darklester and request your game name. 
 """
