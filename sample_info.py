@@ -20,9 +20,10 @@ COLLECTION_NAME ='channel_files' # If you going to use same database, then use d
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
-
-Here you can search files in inline mode. Just press follwing buttons and start searching.
+**Hi, I am Game Searcher bot**
+@BLACKPSYCHOBOT 
+I will send apk to you. Install it. 
+Here you can search Games in inline mode. Just press follwing buttons and start searching. Can't find desired game? Then contact @Darklester and request your game name. 
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
