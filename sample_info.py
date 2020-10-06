@@ -25,7 +25,8 @@ START_MSG = """
 🎮 Click on 'Search Here' button to get games here.\n🎮 Click 'Go Inline' button to send games to Chats.\n
 
 I will send apk to you. Install it. 
-Here you can search Games in inline mode. Just press follwing buttons and start searching. Can't find desired game? Then contact @Darklester and request your game name. 
+
+Here you can search Games in inline mode.\nCan't find desired game? Then contact @Darklester and request your game.\nThanks to my owner @Darklester
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching Games'
