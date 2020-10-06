@@ -22,8 +22,8 @@ COLLECTION_NAME ='channel_files' # If you going to use same database, then use d
 START_MSG = """
 **Hi, I am Game Searcher bot**
 
-🎮 Click on 'Search Here' button to get games here.\n
-🎮 Click 'Go Inline' button to send games to Chats.\n
+🎮 Click 'Search Here' button to get games here.\n
+🎮 Click 'Go Inline' button to send games to chats.\n
 
 I will send apk to you. Install it. 
 
