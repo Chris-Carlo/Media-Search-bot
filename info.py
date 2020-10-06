@@ -25,13 +25,11 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 START_MSG = """
 **Hi, I am Game Searcher bot**
 
-🎮 Click 'Search Here' button to get games here.\n
-🎮 Click 'Go Inline' button to send games to chats.\n
+🎮 **Click 'Search Here' to get games here.**\n
+🎮 **Click 'Go Inline' to send games to chats.**\n
+⭕ I will send apk to you. Install it. 
 
-I will send apk to you. Install it. 
-
-Here you can search games in inline mode.\n
-Can't find desired game? Then contact @Darklester and request your game.\n
-**Thanks to my owner @Darklester**
+⭕ Here you can search games in inline mode.\n⭕ Can't find desired game? Then contact @Darklester and request your game.\n
+⭕ **Thanks to my owner @Darklester** ⭕
 """
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching Games'
